@@ -1,0 +1,7033 @@
+[{
+  "summary": {
+    "file_count": 61, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 19, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A01W", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DY-A0XA", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Unknown", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3881", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AH-6897", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 56, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 15, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-CI-6620", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 43, 
+    "data_categories": [
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-4009", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 56, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-F5-6811", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-A56N", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 66, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 24, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A00C", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 40, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DY-A1DE", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-6917", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 59, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Colon", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-4008", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Colon", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-4015", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3727", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-6136", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-F5-6464", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-6508", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-CI-6624", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 59, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-G5-6233", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 41, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3612", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-F5-6814", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-6885", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-A56K", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3898", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 46, 
+    "data_categories": [
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 20, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-3914", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 41, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3609", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-6884", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 74, 
+    "data_categories": [
+      {
+        "file_count": 10, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 13, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-2691", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A011", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 52, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 12, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EF-5831", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 63, 
+    "data_categories": [
+      {
+        "file_count": 8, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AH-6643", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-6510", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3599", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-3911", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 66, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 24, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A008", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-4022", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-F5-6861", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3598", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DC-5337", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 43, 
+    "data_categories": [
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3891", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-F5-6863", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 56, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DC-6160", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-F5-6702", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 67, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 24, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3892", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-CL-5917", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3575", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-G5-6641", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3591", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A002", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3574", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 59, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-G5-6235", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 59, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AH-6547", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-6506", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DC-4745", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 41, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3578", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AH-6644", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 64, 
+    "data_categories": [
+      {
+        "file_count": 8, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3731", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 41, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Colon", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3582", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-6882", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DY-A1DG", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DY-A1DC", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DC-6158", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-4021", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-7002", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DC-6155", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 56, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 15, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DY-A1H8", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3901", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 70, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 24, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 19, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A02N", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-A56L", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DC-6681", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 64, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 19, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-3913", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3885", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 59, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-4110", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-6883", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3999", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-CI-6622", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-F5-6465", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Colon", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3882", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 53, 
+    "data_categories": [
+      {
+        "file_count": 3, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A032", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-CL-5918", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3584", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-6514", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AH-6544", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 38, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3601", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 19, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A036", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DC-6154", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 56, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 15, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-CI-6623", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 41, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3600", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-6509", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3896", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DT-5265", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-7004", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A01L", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-6512", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AH-6903", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3883", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3887", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-6655", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 54, 
+    "data_categories": [
+      {
+        "file_count": 3, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A014", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-6507", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Connective, subcutaneous and other soft tissues", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-F5-6812", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A016", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DC-6682", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 61, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 19, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A01Y", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 59, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-BM-6198", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 39, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3611", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 70, 
+    "data_categories": [
+      {
+        "file_count": 10, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-2692", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3878", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 64, 
+    "data_categories": [
+      {
+        "file_count": 8, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3725", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 41, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3587", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 65, 
+    "data_categories": [
+      {
+        "file_count": 8, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 6, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-5654", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3583", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 65, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 19, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 11, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A026", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3602", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 59, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3580", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 81, 
+    "data_categories": [
+      {
+        "file_count": 10, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 24, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 19, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 11, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-G5-6572", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-4001", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DC-6683", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3902", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 54, 
+    "data_categories": [
+      {
+        "file_count": 3, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A00H", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3594", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Connective, subcutaneous and other soft tissues", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-F5-6813", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 59, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3890", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 41, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3586", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 55, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AH-6549", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 61, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 19, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A020", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 41, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3593", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3893", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A02X", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3581", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EF-5830", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A025", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 41, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3608", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-6513", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-2693", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DY-A1DD", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DY-A1DF", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3592", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 53, 
+    "data_categories": [
+      {
+        "file_count": 3, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A01J", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DC-5869", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-2687", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A02G", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3726", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 56, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3605", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 43, 
+    "data_categories": [
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3906", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Colon", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-4007", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3728", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-F5-6571", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 57, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-CI-6621", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 59, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 19, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A01N", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 54, 
+    "data_categories": [
+      {
+        "file_count": 3, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A023", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-2690", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-CL-4957", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 63, 
+    "data_categories": [
+      {
+        "file_count": 8, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3732", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-6881", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 56, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3909", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 63, 
+    "data_categories": [
+      {
+        "file_count": 8, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Colon", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3742", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 41, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DC-6156", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-EI-6511", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DC-6157", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-6672", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 71, 
+    "data_categories": [
+      {
+        "file_count": 8, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 13, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 6, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-3400", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 53, 
+    "data_categories": [
+      {
+        "file_count": 3, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 3, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A00Y", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-F5-6864", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-DC-4749", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 56, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 15, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-CI-6619", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 67, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 24, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 9, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 5, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-A015", 
+  "demographic": {
+    "gender": "female"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-4005", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 58, 
+    "data_categories": [
+      {
+        "file_count": 5, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 17, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 1, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 7, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 4, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectum", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AG-3894", 
+  "demographic": {
+    "gender": "male"
+  }
+},{
+  "summary": {
+    "file_count": 70, 
+    "data_categories": [
+      {
+        "file_count": 7, 
+        "data_category": "Transcriptome Profiling"
+      }, 
+      {
+        "file_count": 16, 
+        "data_category": "Simple Nucleotide Variation"
+      }, 
+      {
+        "file_count": 18, 
+        "data_category": "Biospecimen"
+      }, 
+      {
+        "file_count": 8, 
+        "data_category": "Clinical"
+      }, 
+      {
+        "file_count": 2, 
+        "data_category": "DNA Methylation"
+      }, 
+      {
+        "file_count": 13, 
+        "data_category": "Copy Number Variation"
+      }, 
+      {
+        "file_count": 6, 
+        "data_category": "Sequencing Reads"
+      }
+    ]
+  }, 
+  "primary_site": "Rectosigmoid junction", 
+  "project": {
+    "project_id": "TCGA-READ"
+  }, 
+  "submitter_id": "TCGA-AF-2689", 
+  "demographic": {
+    "gender": "female"
+  }
+}]
